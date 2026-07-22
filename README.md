@@ -1,5 +1,24 @@
-# Car Price Prediction Streamlit Application
+# 🚗 Car Price Prediction
 
+A machine learning web application that predicts the selling price of a used car based on features such as year, fuel type, transmission, engine, mileage, and more.
+
+## 🌐 Live Demo
+
+👉 **Try the app here:**  
+https://carpriceprediction-2ffhm7ltbmvmalrzfmxwph.streamlit.app/
+
+## Features
+- Predicts used car prices
+- Simple and interactive Streamlit interface
+- Built using Python and Scikit-learn
+- Trained using Linear Regression
+
+## Tech Stack
+- Python
+- Streamlit
+- Pandas
+- NumPy
+- Scikit-learn
 A machine learning application built with Streamlit to predict car prices.
 
 ## How to Run Locally
