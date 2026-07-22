@@ -35,6 +35,4 @@ A machine learning application built with Streamlit to predict car prices.
 ## Live Deployment
 Deploy to Streamlit Community Cloud with a single click:
 [![Deploy to Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=jaidevxr/car-price-prediction-streamlit&branch=main&main_file=CarPredictionStreamlit.py)
-## 🌐 Live Demo
 
-🔗 [Car Price Prediction App](https://carpriceprediction-2ffhm7ltbmvmalrzfmxwph.streamlit.app/)
